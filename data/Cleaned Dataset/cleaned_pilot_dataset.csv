@@ -1,0 +1,291 @@
+state,time_of_day,rain_or_wet,fog,night_evidence,highway,bus_involved,lorry_truck,car_involved,two_wheeler,head_on,rear_end,collision,severity
+Tamil Nadu,Unknown,0,0,0,1,1,0,1,0,0,0,1,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,0,1,1,0,0,0,0,0,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,0,0,0,0,0,0,0,0,Serious
+Tamil Nadu,Unknown,0,0,0,0,0,0,0,0,0,0,0,Fatal
+Tamil Nadu,Unknown,0,0,0,0,0,0,0,0,0,0,1,Fatal
+Tamil Nadu,Unknown,0,0,0,0,0,0,1,0,0,0,0,Fatal
+Tamil Nadu,Unknown,0,0,0,0,0,0,0,0,1,0,0,Fatal
+Tamil Nadu,Unknown,0,0,0,1,1,0,0,0,0,0,1,Fatal
+Tamil Nadu,Unknown,0,0,0,0,0,0,1,0,0,0,1,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,0,0,1,1,0,0,0,1,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,0,0,0,0,0,0,0,0,Fatal
+Tamil Nadu,Unknown,0,0,0,0,1,1,0,0,0,0,1,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,0,0,0,0,0,0,0,0,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,0,0,0,0,0,0,0,0,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,1,0,0,0,0,0,0,0,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,0,1,0,0,0,0,0,0,Serious
+Tamil Nadu,Unknown,0,0,0,0,0,0,1,1,0,0,1,Serious
+Tamil Nadu,Unknown,0,0,0,1,0,0,1,0,0,0,1,Serious
+Tamil Nadu,Unknown,0,0,0,1,1,0,0,0,0,0,1,Serious
+Tamil Nadu,Unknown,0,0,0,1,0,0,0,1,0,0,1,Serious
+Tamil Nadu,Evening,0,0,0,1,0,0,1,0,0,0,1,Serious
+Tamil Nadu,Night,0,0,1,0,0,1,1,0,0,0,1,Serious
+Tamil Nadu,Unknown,0,0,0,0,0,0,0,0,0,0,0,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,0,0,1,1,0,0,0,1,Fatal
+Tamil Nadu,Morning,0,0,0,1,0,1,0,1,0,0,1,Serious
+Tamil Nadu,Night,0,0,1,1,0,1,0,1,0,0,1,Serious
+Tamil Nadu,Unknown,0,0,0,0,0,0,0,0,0,0,0,Fatal
+Tamil Nadu,Evening,0,0,0,0,0,0,1,0,0,0,0,Serious
+Tamil Nadu,Unknown,0,0,0,0,0,0,0,0,0,0,0,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,1,0,0,1,0,0,0,1,Serious
+Andhra Pradesh,Unknown,0,0,0,0,0,0,0,1,0,0,1,Serious
+Tamil Nadu,Unknown,0,0,0,0,0,0,0,0,0,0,1,Fatal
+Tamil Nadu,Unknown,0,0,0,0,1,1,1,1,1,0,1,Serious
+Tamil Nadu,Evening,0,0,0,0,0,1,1,0,0,0,1,Serious
+Tamil Nadu,Evening,0,0,0,1,1,0,0,0,0,0,0,Serious
+Tamil Nadu,Unknown,0,0,0,0,0,0,0,0,0,0,1,Fatal
+Tamil Nadu,Unknown,0,0,0,0,0,0,0,0,0,0,1,Fatal
+Tamil Nadu,Unknown,0,0,0,1,0,0,0,0,0,0,1,Fatal
+Tamil Nadu,Unknown,0,0,0,1,1,1,1,0,0,0,1,Fatal
+Tamil Nadu,Unknown,0,0,0,1,0,0,0,0,0,0,0,Fatal
+Tamil Nadu,Morning,0,0,0,0,1,0,0,0,1,0,1,Fatal
+Tamil Nadu,Unknown,0,0,0,1,0,0,1,0,0,0,1,Minor/Reported Injury
+Tamil Nadu,Afternoon,0,0,0,0,0,1,0,1,0,0,1,Minor/Reported Injury
+Tamil Nadu,Morning,0,0,0,0,1,0,0,1,0,0,1,Serious
+Tamil Nadu,Unknown,0,0,0,0,0,0,0,1,0,0,1,Serious
+Tamil Nadu,Unknown,0,0,0,1,1,0,1,1,0,0,1,Fatal
+Tamil Nadu,Unknown,0,0,0,1,0,0,0,0,0,0,1,Serious
+Tamil Nadu,Night,0,0,1,0,1,0,1,0,0,0,1,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,0,0,1,1,0,0,0,1,Serious
+Tamil Nadu,Morning,0,0,0,0,0,0,0,1,0,0,1,Minor/Reported Injury
+Tamil Nadu,Morning,0,0,0,1,0,0,0,0,0,0,0,Minor/Reported Injury
+Tamil Nadu,Night,0,0,1,0,0,0,0,1,0,0,0,Minor/Reported Injury
+Tamil Nadu,Morning,0,0,0,0,0,0,1,0,0,0,1,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,0,0,1,0,1,0,0,0,Serious
+Tamil Nadu,Morning,0,0,0,0,0,1,0,0,0,0,1,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,0,0,0,1,0,0,0,1,Fatal
+Tamil Nadu,Unknown,0,0,0,0,0,0,0,1,0,0,0,Serious
+Tamil Nadu,Afternoon,0,0,0,1,0,0,1,0,0,0,1,Serious
+Tamil Nadu,Afternoon,0,0,0,0,1,0,0,1,0,0,0,Fatal
+Tamil Nadu,Night,0,0,1,1,0,1,0,1,1,0,1,Serious
+Tamil Nadu,Night,0,0,1,1,1,0,1,0,1,0,1,Serious
+Tamil Nadu,Night,0,0,1,0,0,0,0,1,0,0,1,Serious
+Tamil Nadu,Unknown,0,0,0,0,0,1,1,0,0,0,1,Minor/Reported Injury
+Tamil Nadu,Evening,0,0,0,0,0,1,0,1,0,0,1,Serious
+Tamil Nadu,Unknown,0,0,0,0,1,0,0,0,0,0,0,Fatal
+Kerala,Morning,0,0,0,0,0,1,0,1,0,0,1,Serious
+Andhra Pradesh,Unknown,0,0,0,0,0,1,1,0,0,0,1,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,0,0,1,0,0,0,0,1,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,0,0,1,1,0,1,0,1,Serious
+Tamil Nadu,Afternoon,0,0,0,0,0,1,1,0,1,0,1,Serious
+Tamil Nadu,Evening,0,0,0,0,0,0,0,1,0,0,1,Serious
+Tamil Nadu,Morning,0,0,0,0,1,0,1,1,0,0,1,Serious
+Tamil Nadu,Unknown,0,0,0,1,0,1,0,0,0,0,1,Minor/Reported Injury
+Kerala,Night,0,0,1,1,0,0,0,0,0,0,1,Minor/Reported Injury
+Karnataka,Night,0,0,1,0,0,0,0,1,0,0,1,Serious
+Tamil Nadu,Unknown,0,0,0,1,0,0,1,1,0,0,1,Serious
+Karnataka,Evening,0,0,0,0,0,0,1,0,0,0,1,Fatal
+Tamil Nadu,Night,0,0,1,0,0,0,0,1,0,0,1,Serious
+Tamil Nadu,Morning,0,0,0,0,0,0,0,0,0,0,0,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,0,1,0,0,0,0,0,1,Serious
+Tamil Nadu,Unknown,0,0,0,1,1,1,0,0,0,0,1,Fatal
+Tamil Nadu,Unknown,0,0,0,0,0,0,0,0,0,0,1,Minor/Reported Injury
+Tamil Nadu,Night,0,0,1,0,0,0,0,1,0,0,1,Fatal
+Tamil Nadu,Unknown,0,0,0,0,0,0,0,0,0,0,0,Serious
+Tamil Nadu,Unknown,0,0,0,0,0,0,0,0,0,0,0,Serious
+Tamil Nadu,Unknown,0,0,0,0,0,0,0,1,0,0,1,Minor/Reported Injury
+Tamil Nadu,Night,0,0,1,0,0,0,1,1,0,0,1,Serious
+Tamil Nadu,Night,0,0,1,0,0,0,0,1,0,0,1,Serious
+Tamil Nadu,Morning,0,0,0,1,1,0,0,1,0,0,1,Fatal
+Tamil Nadu,Night,0,0,1,0,0,0,1,1,0,0,1,Serious
+Tamil Nadu,Night,0,0,1,0,0,1,0,1,0,0,1,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,0,0,0,0,1,0,0,1,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,0,0,0,0,1,0,0,1,Serious
+Tamil Nadu,Unknown,0,0,0,0,0,0,0,1,0,0,0,Serious
+Tamil Nadu,Evening,0,0,0,0,0,0,1,0,0,0,1,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,0,0,0,1,0,0,0,1,Minor/Reported Injury
+Tamil Nadu,Morning,0,0,0,0,0,0,1,0,0,0,1,Minor/Reported Injury
+Kerala,Unknown,0,0,0,0,0,0,1,0,0,0,1,Minor/Reported Injury
+Tamil Nadu,Morning,0,0,0,0,0,0,1,0,0,0,1,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,0,0,0,1,0,0,0,1,Minor/Reported Injury
+Tamil Nadu,Night,0,0,1,0,0,0,1,0,0,0,1,Serious
+Tamil Nadu,Unknown,0,0,0,0,0,1,1,0,0,0,1,Minor/Reported Injury
+Tamil Nadu,Night,0,0,1,0,1,0,1,1,0,0,1,Fatal
+Tamil Nadu,Unknown,1,0,0,0,0,0,1,0,0,0,1,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,0,0,1,1,0,0,0,1,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,0,0,0,1,0,0,0,1,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,0,0,0,1,0,0,0,1,Minor/Reported Injury
+Tamil Nadu,Evening,0,0,0,0,0,0,1,0,0,0,1,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,0,0,0,1,0,0,0,1,Minor/Reported Injury
+Tamil Nadu,Morning,0,0,0,0,0,0,1,0,0,0,1,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,0,0,0,1,0,0,0,1,Serious
+Tamil Nadu,Afternoon,0,0,0,0,0,0,1,0,0,0,0,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,0,0,0,1,0,0,0,1,Serious
+Tamil Nadu,Unknown,0,0,0,0,0,0,1,0,0,0,1,Minor/Reported Injury
+Tamil Nadu,Morning,0,0,0,0,0,1,1,0,0,0,1,Serious
+Tamil Nadu,Night,0,0,1,0,0,0,1,0,0,0,1,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,0,0,1,1,0,0,0,1,Serious
+Tamil Nadu,Afternoon,0,0,0,1,1,0,0,1,1,0,1,Minor/Reported Injury
+Tamil Nadu,Night,0,0,1,0,0,0,1,0,0,0,1,Serious
+Tamil Nadu,Night,0,0,1,0,1,0,0,1,0,0,1,Serious
+Tamil Nadu,Night,0,0,1,0,0,0,0,1,0,0,1,Serious
+Tamil Nadu,Evening,0,0,0,0,0,1,0,0,0,0,1,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,0,0,0,0,0,0,0,0,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,0,1,1,0,1,0,0,0,Serious
+Tamil Nadu,Unknown,0,0,0,0,0,0,1,0,0,0,1,Serious
+Tamil Nadu,Morning,0,0,0,0,0,0,1,0,0,0,1,Serious
+Tamil Nadu,Evening,0,0,0,0,0,0,1,0,0,0,1,Serious
+Tamil Nadu,Unknown,0,0,0,0,1,0,0,1,0,0,1,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,1,1,0,0,0,1,0,0,Fatal
+Tamil Nadu,Afternoon,0,0,0,0,0,1,1,1,0,0,1,Minor/Reported Injury
+Karnataka,Morning,0,0,0,0,0,0,0,1,0,0,1,Fatal
+Tamil Nadu,Unknown,0,0,0,0,0,1,1,0,0,0,1,Fatal
+Tamil Nadu,Evening,0,0,0,0,0,0,1,0,0,0,1,Serious
+Karnataka,Night,0,0,1,1,0,1,1,0,0,0,1,Serious
+Tamil Nadu,Morning,0,0,0,0,0,1,1,0,0,0,1,Serious
+Tamil Nadu,Night,0,0,1,1,1,1,1,0,1,0,1,Serious
+Tamil Nadu,Night,0,0,1,0,0,1,1,1,0,0,1,Minor/Reported Injury
+Tamil Nadu,Morning,0,0,0,0,0,1,1,0,1,0,1,Minor/Reported Injury
+Tamil Nadu,Morning,0,0,0,0,0,0,1,0,0,0,1,Serious
+Tamil Nadu,Unknown,0,0,0,1,0,0,1,1,0,0,1,Fatal
+Tamil Nadu,Unknown,0,0,0,0,0,0,1,1,0,0,1,Minor/Reported Injury
+Tamil Nadu,Morning,0,0,0,1,0,0,1,1,0,0,1,Minor/Reported Injury
+Tamil Nadu,Night,0,0,1,0,0,0,0,1,0,0,1,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,1,0,0,1,0,0,0,1,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,0,1,0,0,0,0,0,1,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,0,0,1,0,0,0,0,1,Serious
+Tamil Nadu,Unknown,0,0,0,0,1,0,0,0,0,0,0,Serious
+Tamil Nadu,Morning,0,0,0,0,0,0,1,0,0,0,1,Serious
+Tamil Nadu,Unknown,0,0,0,0,1,0,0,1,0,0,0,Serious
+Tamil Nadu,Night,0,0,1,1,0,0,1,1,0,0,0,Serious
+Tamil Nadu,Unknown,0,0,0,1,0,0,1,0,0,0,1,Serious
+Tamil Nadu,Unknown,0,0,0,1,1,0,0,1,0,0,0,Serious
+Tamil Nadu,Unknown,0,0,0,0,0,0,1,1,1,0,1,Serious
+Tamil Nadu,Unknown,0,0,0,0,0,0,0,1,0,0,0,Serious
+Tamil Nadu,Unknown,0,0,0,1,0,0,1,1,0,0,1,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,1,0,0,1,0,0,0,1,Minor/Reported Injury
+Tamil Nadu,Night,0,0,1,1,1,0,1,0,1,0,1,Minor/Reported Injury
+Tamil Nadu,Afternoon,0,0,0,0,0,0,1,0,0,0,0,Serious
+Tamil Nadu,Unknown,0,0,0,0,0,0,0,0,0,0,0,Fatal
+Tamil Nadu,Unknown,0,0,0,0,0,0,0,1,1,0,1,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,1,1,0,0,0,0,0,1,Serious
+Tamil Nadu,Night,0,0,1,0,0,0,0,1,0,0,0,Minor/Reported Injury
+Tamil Nadu,Night,0,0,1,1,0,0,1,1,0,0,1,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,1,1,0,0,0,0,0,1,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,0,0,0,1,0,0,0,0,Fatal
+Tamil Nadu,Morning,0,0,0,1,0,1,1,1,0,0,1,Fatal
+Tamil Nadu,Unknown,0,0,0,0,1,0,0,1,0,0,1,Serious
+Tamil Nadu,Night,0,0,1,0,0,0,0,1,0,0,1,Serious
+Tamil Nadu,Unknown,0,0,0,0,0,0,1,0,1,0,1,Minor/Reported Injury
+Tamil Nadu,Evening,0,0,0,0,0,0,1,0,0,0,1,Serious
+Tamil Nadu,Unknown,0,0,0,1,0,1,1,1,0,0,1,Minor/Reported Injury
+Andhra Pradesh,Morning,0,0,0,0,0,1,0,1,0,0,1,Serious
+Tamil Nadu,Unknown,0,0,0,1,0,0,1,1,0,0,1,Fatal
+Tamil Nadu,Night,0,0,1,0,0,1,1,0,0,0,1,Minor/Reported Injury
+Tamil Nadu,Night,0,0,1,1,0,0,1,0,0,0,1,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,1,0,0,1,0,0,0,0,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,1,1,0,1,0,0,0,1,Serious
+Tamil Nadu,Morning,0,0,0,0,1,1,0,0,0,0,1,Minor/Reported Injury
+Tamil Nadu,Evening,0,0,0,0,1,1,0,1,0,0,1,Serious
+Tamil Nadu,Unknown,0,0,0,0,0,0,0,0,0,0,1,Fatal
+Tamil Nadu,Unknown,0,0,0,0,1,0,0,0,0,0,0,Serious
+Tamil Nadu,Unknown,0,0,0,0,1,1,0,1,0,0,1,Serious
+Tamil Nadu,Unknown,0,0,0,1,0,0,1,0,0,0,1,Serious
+Tamil Nadu,Unknown,0,0,0,1,1,1,0,1,0,0,1,Serious
+Tamil Nadu,Night,0,0,1,0,0,1,1,0,0,0,1,Serious
+Tamil Nadu,Night,0,0,1,0,1,1,0,0,0,0,1,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,1,1,0,0,1,0,0,1,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,1,0,1,0,0,0,0,1,Serious
+Tamil Nadu,Unknown,0,0,0,1,0,1,0,1,0,0,1,Fatal
+Tamil Nadu,Unknown,0,0,0,1,1,0,0,0,0,0,1,Minor/Reported Injury
+Tamil Nadu,Morning,0,0,0,1,0,1,0,0,0,0,1,Minor/Reported Injury
+Tamil Nadu,Afternoon,0,0,0,0,0,0,1,0,0,0,1,Fatal
+Tamil Nadu,Night,0,0,1,0,0,1,0,0,1,0,1,Minor/Reported Injury
+Tamil Nadu,Night,0,0,1,1,0,0,0,0,0,0,1,Fatal
+Tamil Nadu,Night,0,0,1,0,0,0,1,0,1,1,1,Serious
+Tamil Nadu,Unknown,0,0,0,0,0,0,0,0,1,0,1,Fatal
+Tamil Nadu,Morning,0,0,0,0,0,0,0,0,0,0,1,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,0,0,0,0,1,0,0,1,Serious
+Tamil Nadu,Afternoon,0,0,0,0,0,0,1,0,0,0,1,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,0,0,0,0,0,0,0,1,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,0,0,0,1,0,0,0,1,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,0,0,0,0,0,0,0,1,Serious
+Tamil Nadu,Unknown,0,0,0,0,0,1,1,0,1,0,1,Fatal
+Tamil Nadu,Evening,0,0,0,0,0,0,0,0,1,0,1,Serious
+Tamil Nadu,Afternoon,0,0,0,0,0,0,1,0,0,0,1,Serious
+Tamil Nadu,Night,0,0,1,1,0,0,1,0,1,0,1,Serious
+Tamil Nadu,Morning,0,0,0,0,0,1,1,0,1,0,1,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,0,0,0,0,0,0,0,1,Serious
+Tamil Nadu,Unknown,0,0,0,1,0,1,1,0,0,0,1,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,0,0,0,1,0,0,0,1,Serious
+Tamil Nadu,Evening,0,0,0,0,0,0,0,0,0,0,1,Minor/Reported Injury
+Tamil Nadu,Afternoon,0,0,0,0,0,0,0,0,0,0,1,Minor/Reported Injury
+Tamil Nadu,Morning,0,0,0,1,0,1,0,0,0,0,1,Serious
+Tamil Nadu,Afternoon,1,0,0,0,0,1,1,0,0,0,1,Minor/Reported Injury
+Tamil Nadu,Night,0,0,1,0,0,0,0,1,0,0,1,Serious
+Tamil Nadu,Unknown,0,0,0,0,0,1,1,0,0,0,1,Serious
+Tamil Nadu,Night,0,0,1,1,0,1,1,1,0,0,1,Serious
+Tamil Nadu,Unknown,0,0,0,0,0,0,1,1,0,0,1,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,1,0,1,0,0,0,0,1,Minor/Reported Injury
+Tamil Nadu,Morning,0,0,0,0,1,1,0,0,0,0,0,Serious
+Tamil Nadu,Unknown,0,0,0,1,0,0,1,0,0,0,1,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,0,0,0,0,1,0,0,1,Fatal
+Tamil Nadu,Unknown,0,0,0,0,0,0,0,0,0,0,1,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,0,0,0,0,0,0,0,0,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,1,1,1,0,0,0,0,1,Serious
+Karnataka,Morning,0,0,0,0,0,0,0,0,0,0,0,Minor/Reported Injury
+Tamil Nadu,Night,0,0,1,1,0,0,0,1,0,0,1,Minor/Reported Injury
+Tamil Nadu,Morning,0,0,0,1,0,1,1,0,0,0,1,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,0,0,1,0,0,0,0,1,Fatal
+Tamil Nadu,Unknown,0,0,0,0,0,0,0,1,1,0,1,Serious
+Karnataka,Night,0,0,1,1,1,0,1,0,0,0,1,Minor/Reported Injury
+Tamil Nadu,Morning,0,0,0,0,0,1,1,0,1,0,1,Serious
+Tamil Nadu,Morning,0,0,0,0,0,1,0,0,0,0,0,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,1,1,0,1,0,0,0,1,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,1,1,0,1,0,0,0,1,Minor/Reported Injury
+Tamil Nadu,Night,0,0,1,0,0,0,1,0,0,0,1,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,0,0,0,0,0,0,0,1,Serious
+Tamil Nadu,Unknown,0,0,0,0,0,0,0,0,0,0,0,Serious
+Karnataka,Unknown,0,0,0,1,0,0,1,0,0,0,1,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,0,0,0,0,1,0,0,1,Serious
+Tamil Nadu,Unknown,0,0,0,1,1,0,0,0,1,0,1,Fatal
+Tamil Nadu,Unknown,0,0,0,1,1,0,1,0,1,0,1,Serious
+Tamil Nadu,Unknown,0,0,0,0,1,0,1,1,0,0,1,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,0,1,0,0,0,0,0,1,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,1,1,0,0,0,1,0,1,Minor/Reported Injury
+Tamil Nadu,Unknown,0,0,0,1,1,0,1,0,1,0,1,Fatal
+Tamil Nadu,Evening,0,0,0,0,1,1,0,0,1,0,1,Fatal
+Telangana,Morning,0,0,0,0,1,1,0,0,1,0,1,Fatal
+Tamil Nadu,Unknown,0,0,0,0,1,1,0,0,1,0,1,Serious
+Kerala,Morning,0,0,0,1,1,1,0,0,0,0,1,Serious
+Karnataka,Unknown,0,0,0,0,0,0,0,0,0,0,0,Fatal
+Karnataka,Night,0,0,1,0,0,1,0,1,0,0,1,Serious
+Karnataka,Unknown,0,0,0,0,1,0,0,0,0,0,1,Serious
+Karnataka,Unknown,0,0,0,0,0,1,1,1,0,0,1,Fatal
+Karnataka,Unknown,0,0,0,0,0,0,0,0,0,0,0,Fatal
+Karnataka,Unknown,0,0,0,1,1,0,0,0,0,0,0,Minor/Reported Injury
+Karnataka,Morning,0,0,0,1,1,1,0,0,0,0,1,Serious
+Karnataka,Morning,0,0,0,1,0,0,1,0,0,0,0,Serious
+Karnataka,Morning,0,0,0,1,0,0,1,0,0,0,1,Minor/Reported Injury
+Karnataka,Unknown,0,0,0,0,0,0,0,1,0,0,0,Serious
+Karnataka,Night,0,0,1,0,0,0,1,0,0,0,0,Serious
+Karnataka,Unknown,0,0,0,1,0,1,1,0,0,0,1,Minor/Reported Injury
+Karnataka,Unknown,0,0,0,0,0,0,1,1,0,0,1,Serious
+Karnataka,Night,0,0,1,0,0,0,1,1,0,0,1,Serious
+Karnataka,Unknown,0,0,0,1,1,0,0,0,0,0,0,Serious
+Karnataka,Unknown,0,0,0,0,0,0,0,1,0,0,0,Serious
+Karnataka,Unknown,0,0,0,1,0,1,1,0,0,0,1,Fatal
+Karnataka,Unknown,0,0,0,1,0,0,1,0,0,0,1,Serious
+Karnataka,Night,0,0,1,1,0,1,0,0,0,0,1,Minor/Reported Injury
+Karnataka,Morning,0,0,0,1,0,1,1,0,0,0,1,Serious
+Karnataka,Unknown,0,0,0,0,1,0,0,1,0,0,0,Minor/Reported Injury
+Karnataka,Morning,0,0,0,1,0,0,1,0,0,0,1,Serious
+Karnataka,Morning,0,0,0,1,1,1,0,0,0,0,1,Fatal
+Karnataka,Unknown,0,0,0,1,1,1,1,0,0,0,1,Minor/Reported Injury
+Karnataka,Night,0,0,1,1,1,0,1,0,1,0,1,Minor/Reported Injury
+Karnataka,Unknown,0,0,0,1,1,0,0,0,0,0,1,Serious
+Karnataka,Unknown,0,0,0,0,1,0,0,1,0,0,1,Serious
+Karnataka,Unknown,0,1,0,1,1,1,1,0,0,0,1,Serious
+Karnataka,Night,0,0,1,0,0,0,0,1,0,0,1,Serious
+Karnataka,Unknown,0,0,0,0,0,0,0,1,0,0,1,Serious
+Karnataka,Night,0,0,1,1,0,1,1,0,0,0,1,Fatal
+Karnataka,Unknown,0,0,0,0,0,1,1,1,0,0,1,Minor/Reported Injury
+Karnataka,Unknown,0,0,0,1,1,0,0,0,0,0,1,Minor/Reported Injury
+Karnataka,Unknown,0,0,0,0,1,1,1,1,0,0,1,Fatal
+Karnataka,Night,0,0,1,1,0,0,1,0,1,0,1,Serious
+Karnataka,Unknown,0,0,0,0,0,0,0,1,0,0,1,Serious
+Karnataka,Night,0,0,1,0,1,1,0,0,0,0,1,Minor/Reported Injury
+Karnataka,Unknown,0,0,0,0,0,0,0,0,0,0,0,Minor/Reported Injury
+Karnataka,Evening,0,0,0,1,1,0,0,0,0,0,1,Serious
+Karnataka,Evening,0,0,0,1,1,0,0,0,0,0,1,Serious
